@@ -1,0 +1,12 @@
+title: 合法クローンサイト
+description: GitHub Pages + Jekyll で作ったサンプル
+author: Gomi
+lang: ja
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - jp/about.md
+
+permalink: /:path/
